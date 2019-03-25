@@ -1,41 +1,43 @@
-[
-  {
-    "id": 1,
-    "path": "/organization/",
-    "icon": "business",
-    "name": "Organization 1",
-    "desc": "Organization Description 1",
-    "listItemIcon": "apps",
-    "listItemElements": [
-      "Instance 1",
-      "Instance 2"
-    ],
-    "isChecked": false
-  },
-  {
-    "id": 2,
-    "path": "/organization/",
-    "icon": "business",
-    "name": "Organization 2",
-    "desc": "Organization Description 2",
-    "listItemIcon": "apps",
-    "listItemElements": [
-      "Instance 1",
-      "Instance 2"
-    ],
-    "isChecked": false
-  },
-  {
-    "id": 3,
-    "path": "/organization/",
-    "icon": "business",
-    "name": "Organization 3",
-    "desc": "Organization Description 3",
-    "listItemIcon": "apps",
-    "listItemElements": [
-      "Instance 1",
-      "Instance 2"
-    ],
-    "isChecked": false
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 1",
+      "desc": "Organization Description 1",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 2",
+      "desc": "Organization Description 2",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 3",
+      "desc": "Organization Description 3",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "isChecked": false
+    }
+  ]
+}
