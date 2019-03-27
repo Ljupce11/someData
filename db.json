@@ -6,12 +6,15 @@
       "icon": "business",
       "name": "Organization 1",
       "desc": "Organization Description 1",
+      "listTitle": "Instances",
       "listItemIcon": "apps",
       "listItemElements": [
         "Instance 1",
         "Instance 2"
       ],
-      "users": [
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
         "User 1",
         "User 2",
         "User 3"
@@ -24,12 +27,15 @@
       "icon": "business",
       "name": "Organization 2",
       "desc": "Organization Description 2",
+      "listTitle": "Instances",
       "listItemIcon": "apps",
       "listItemElements": [
         "Instance 1",
         "Instance 2"
       ],
-      "users": [
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
         "User 1",
         "User 2",
         "User 3"
@@ -42,12 +48,15 @@
       "icon": "business",
       "name": "Organization 3",
       "desc": "Organization Description 3",
+      "listTitle": "Instances",
       "listItemIcon": "apps",
       "listItemElements": [
         "Instance 1",
         "Instance 2"
       ],
-      "users": [
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
         "User 1",
         "User 2",
         "User 3"
@@ -62,12 +71,15 @@
       "icon": "apps",
       "name": "Instance 1",
       "desc": "Instance Description 1",
+      "listTitle": "Organizations",
       "listItemIcon": "business",
       "listItemElements": [
         "Organization 1",
         "Organization 2"
       ],
-      "extensions": [
+      "scndListTitle": "Extensions",
+      "scndListItemIcon": "extension",
+      "scndListItemElements": [
         "Extension 1",
         "Extension 2",
         "Extension 3"
@@ -80,12 +92,15 @@
       "icon": "apps",
       "name": "Instance 2",
       "desc": "Instance Description 2",
+      "listTitle": "Organizations",
       "listItemIcon": "business",
       "listItemElements": [
         "Organization 1",
         "Organization 2"
       ],
-      "extensions": [
+      "scndListTitle": "Extensions",
+      "scndListItemIcon": "extension",
+      "scndListItemElements": [
         "Extension 1",
         "Extension 2",
         "Extension 3"
@@ -98,12 +113,15 @@
       "icon": "apps",
       "name": "Instance 3",
       "desc": "Instance Description 3",
+      "listTitle": "Organizations",
       "listItemIcon": "business",
       "listItemElements": [
         "Organization 1",
         "Organization 2"
       ],
-      "extensions": [
+      "scndListTitle": "Extensions",
+      "scndListItemIcon": "extension",
+      "scndListItemElements": [
         "Extension 1",
         "Extension 2",
         "Extension 3"
@@ -118,8 +136,10 @@
       "icon": "person",
       "name": "User 1",
       "desc": "test@keitaro.com",
+      "listTitle": "Organizations",
       "listItemIcon": "business",
       "listItemElements": ["Organization 1", "Organization 2"],
+      "scndListTitle": "Instances",
       "scndListItemIcon": "apps",
       "scndListItemElements": ["Instance 1", "Instance 2"],
       "isChecked": false
@@ -130,8 +150,10 @@
       "icon": "person",
       "name": "User 2",
       "desc": "test@keitaro.com",
+      "listTitle": "Organizations",
       "listItemIcon": "business",
       "listItemElements": ["Organization 1", "Organization 2"],
+      "scndListTitle": "Instances",
       "scndListItemIcon": "apps",
       "scndListItemElements": ["Instance 1", "Instance 2"],
       "isChecked": false
@@ -143,7 +165,9 @@
       "name": "User 3",
       "desc": "test@keitaro.com",
       "listItemIcon": "business",
+      "listTitle": "Organizations",
       "listItemElements": ["Organization 1", "Organization 2"],
+      "scndListTitle": "Instances",
       "scndListItemIcon": "apps",
       "scndListItemElements": ["Instance 1", "Instance 2"],
       "isChecked": false
