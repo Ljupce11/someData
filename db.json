@@ -118,10 +118,10 @@
       "icon": "person",
       "name": "User 1",
       "desc": "test@keitaro.com",
-      "listItemIcon": 'business',
-      "listItemElements": ['Organization 1', 'Organization 2'],
-      "scndListItemIcon": 'apps',
-      "scndListItemElements": ['Instance 1', 'Instance 2'],
+      "listItemIcon": "business",
+      "listItemElements": ["Organization 1", "Organization 2"],
+      "scndListItemIcon": "apps",
+      "scndListItemElements": ["Instance 1", "Instance 2"],
       "isChecked": false
     },
     {
@@ -130,10 +130,10 @@
       "icon": "person",
       "name": "User 2",
       "desc": "test@keitaro.com",
-      "listItemIcon": 'business',
-      "listItemElements": ['Organization 1', 'Organization 2'],
-      "scndListItemIcon": 'apps',
-      "scndListItemElements": ['Instance 1', 'Instance 2'],
+      "listItemIcon": "business",
+      "listItemElements": ["Organization 1", "Organization 2"],
+      "scndListItemIcon": "apps",
+      "scndListItemElements": ["Instance 1", "Instance 2"],
       "isChecked": false
     },
           {
@@ -142,10 +142,10 @@
       "icon": "person",
       "name": "User 3",
       "desc": "test@keitaro.com",
-      "listItemIcon": 'business',
-      "listItemElements": ['Organization 1', 'Organization 2'],
-      "scndListItemIcon": 'apps',
-      "scndListItemElements": ['Instance 1', 'Instance 2'],
+      "listItemIcon": "business",
+      "listItemElements": ["Organization 1", "Organization 2"],
+      "scndListItemIcon": "apps",
+      "scndListItemElements": ["Instance 1", "Instance 2"],
       "isChecked": false
     }
   ],
