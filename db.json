@@ -110,5 +110,43 @@
       ],
       "isChecked": false
     }
-  ]
+  ],
+    "users": [
+    {
+      "id": 1,
+      "path": "/user/",
+      "icon": "person",
+      "name": "User 1",
+      "desc": "test@keitaro.com",
+      "listItemIcon": 'business',
+      "listItemElements": ['Organization 1', 'Organization 2'],
+      "scndListItemIcon": 'apps',
+      "scndListItemElements": ['Instance 1', 'Instance 2'],
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "path": "/user/",
+      "icon": "person",
+      "name": "User 2",
+      "desc": "test@keitaro.com",
+      "listItemIcon": 'business',
+      "listItemElements": ['Organization 1', 'Organization 2'],
+      "scndListItemIcon": 'apps',
+      "scndListItemElements": ['Instance 1', 'Instance 2'],
+      "isChecked": false
+    },
+          {
+      "id": 3,
+      "path": "/user/",
+      "icon": "person",
+      "name": "User 3",
+      "desc": "test@keitaro.com",
+      "listItemIcon": 'business',
+      "listItemElements": ['Organization 1', 'Organization 2'],
+      "scndListItemIcon": 'apps',
+      "scndListItemElements": ['Instance 1', 'Instance 2'],
+      "isChecked": false
+    }
+  ],
 }
