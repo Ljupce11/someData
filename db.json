@@ -177,7 +177,7 @@
     {
       "id": 1,
       "icon": "notifications",
-      "path": "/notification",
+      "path": "/notification/",
       "name": "Notification 1",
       "desc": "18th March 2019",
       "isChecked": false
@@ -185,7 +185,7 @@
     {
       "id": 2,
       "icon": "notifications",
-      "path": "/notification",
+      "path": "/notification/",
       "name": "Notification 2",
       "desc": "18th March 2019",
       "isChecked": false
@@ -193,7 +193,7 @@
     {
       "id": 3,
       "icon": "notifications",
-      "path": "/notification",
+      "path": "/notification/",
       "name": "Notification 3",
       "desc": "18th March 2019",
       "isChecked": false
