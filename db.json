@@ -1,5 +1,5 @@
 {
-  "data": [
+  "organizations": [
     {
       "id": 1,
       "path": "/organization/",
@@ -51,6 +51,62 @@
         "User 1",
         "User 2",
         "User 3"
+      ],
+      "isChecked": false
+    }
+  ],
+  "instances": [
+    {
+      "id": 1,
+      "path": "/instances/",
+      "icon": "apps",
+      "name": "Instance 1",
+      "desc": "Instance Description 1",
+      "listItemIcon": "business",
+      "listItemElements": [
+        "Organization 1",
+        "Organization 2"
+      ],
+      "extensions": [
+        "Extension 1",
+        "Extension 2",
+        "Extension 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "path": "/instances/",
+      "icon": "apps",
+      "name": "Instance 2",
+      "desc": "Instance Description 2",
+      "listItemIcon": "business",
+      "listItemElements": [
+        "Organization 1",
+        "Organization 2"
+      ],
+      "extensions": [
+        "Extension 1",
+        "Extension 2",
+        "Extension 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "path": "/instances/",
+      "icon": "apps",
+      "name": "Instance 3",
+      "desc": "Instance Description 3",
+      "listItemIcon": "business",
+      "listItemElements": [
+        "Organization 1",
+        "Organization 2"
+      ],
+      "extensions": [
+        "Extension 1",
+        "Extension 2",
+        "Extension 3"
       ],
       "isChecked": false
     }
