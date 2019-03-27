@@ -11,6 +11,11 @@
         "Instance 1",
         "Instance 2"
       ],
+      "users": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
       "isChecked": false
     },
     {
@@ -24,6 +29,11 @@
         "Instance 1",
         "Instance 2"
       ],
+      "users": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
       "isChecked": false
     },
     {
@@ -36,6 +46,11 @@
       "listItemElements": [
         "Instance 1",
         "Instance 2"
+      ],
+      "users": [
+        "User 1",
+        "User 2",
+        "User 3"
       ],
       "isChecked": false
     }
