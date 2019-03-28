@@ -201,30 +201,34 @@
   ],
   "extensions": [
     {
-      "avatarPath": "/",
+      "id": 1,
+      "avatarPath": "/extension/",
       "icon": "extension",
-      "path": "/",
+      "path": "/extension/",
       "title": "Sed cursus turpis vitae",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   },
   {
-      "avatarPath": "/",
+      "id": 2,
+      "avatarPath": "/extension/",
       "icon": "extension",
-      "path": "/",
+      "path": "/extension/",
       "title": "Vitae",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   },
   {
-      "avatarPath": "/",
+      "id": 3,
+      "avatarPath": "/extension/",
       "icon": "extension",
-      "path": "/",
+      "path": "/extension/",
       "title": "Turpis vitae",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   },
   {
-      "avatarPath": "/",
+      "id": 4,
+      "avatarPath": "/extension/",
       "icon": "extension",
-      "path": "/",
+      "path": "/extension/",
       "title": "Nullam accumsan lorem in dui",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   }
