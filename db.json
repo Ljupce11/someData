@@ -62,6 +62,132 @@
         "User 3"
       ],
       "isChecked": false
+    },
+    {
+      "id": 4,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 4",
+      "desc": "Organization Description 4",
+      "listTitle": "Instances",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 5,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 5",
+      "desc": "Organization Description 5",
+      "listTitle": "Instances",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 6,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 6",
+      "desc": "Organization Description 6",
+      "listTitle": "Instances",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 7,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 7",
+      "desc": "Organization Description 7",
+      "listTitle": "Instances",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 8,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 8",
+      "desc": "Organization Description 8",
+      "listTitle": "Instances",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
+      "isChecked": false
+    },
+    {
+      "id": 9,
+      "path": "/organization/",
+      "icon": "business",
+      "name": "Organization 9",
+      "desc": "Organization Description 9",
+      "listTitle": "Instances",
+      "listItemIcon": "apps",
+      "listItemElements": [
+        "Instance 1",
+        "Instance 2"
+      ],
+      "scndListTitle": "Users",
+      "scndListItemIcon": "person",
+      "scndListItemElements": [
+        "User 1",
+        "User 2",
+        "User 3"
+      ],
+      "isChecked": false
     }
   ],
   "instances": [
