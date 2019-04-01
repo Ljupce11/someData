@@ -1,24 +1,4 @@
 {
-  "dashboard": [
-    {
-      "title": "CKAN Instances",
-      "num": 5,
-      "icon": "apps",
-      "desc": "Running CKAN instances on the platform"
-    },
-    {
-      "title": "Organizations",
-      "num": 15,
-      "icon": "business",
-      "desc": "Registered organizations on the platform"
-    },
-    {
-      "title": "Users",
-      "num": 125,
-      "icon": "group",
-      "desc": "Registered users on the platform"
-    }
-  ],
   "organizations": [
     {
       "id": 1,
@@ -378,5 +358,25 @@
       "title": "Nullam accumsan lorem in dui",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   }
+  ],
+  "dashboard": [
+    {
+      "title": "CKAN Instances",
+      "num": 5,
+      "icon": "apps",
+      "desc": "Running CKAN instances on the platform"
+    },
+    {
+      "title": "Organizations",
+      "num": 15,
+      "icon": "business",
+      "desc": "Registered organizations on the platform"
+    },
+    {
+      "title": "Users",
+      "num": 125,
+      "icon": "group",
+      "desc": "Registered users on the platform"
+    }
   ]
 }
