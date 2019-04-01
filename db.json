@@ -19,6 +19,24 @@
         "User 2",
         "User 3"
       ],
+      "buttons": [
+      {
+        type: 'button',
+        action: 'edit',
+        name: 'Edit',
+        icon: 'edit',
+        path: '/organization-edit/',
+        class: 'btn-sm btn-outline-secondary'
+      },
+      {
+        type: 'modal',
+        action: 'delete',
+        name: 'Delete',
+        icon: 'delete',
+        path: '/',
+        class: 'btn-sm btn-outline-secondary'
+      }
+      ],
       "isChecked": false
     },
     {
