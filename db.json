@@ -2,7 +2,7 @@
   "organizations": [
     {
       "id": 1,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 1",
       "desc": "Organization Description 1",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 2",
       "desc": "Organization Description 2",
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 3",
       "desc": "Organization Description 3",
@@ -65,7 +65,7 @@
     },
     {
       "id": 4,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 4",
       "desc": "Organization Description 4",
@@ -86,7 +86,7 @@
     },
     {
       "id": 5,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 5",
       "desc": "Organization Description 5",
@@ -107,7 +107,7 @@
     },
     {
       "id": 6,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 6",
       "desc": "Organization Description 6",
@@ -128,7 +128,7 @@
     },
     {
       "id": 7,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 7",
       "desc": "Organization Description 7",
@@ -149,7 +149,7 @@
     },
     {
       "id": 8,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 8",
       "desc": "Organization Description 8",
@@ -170,7 +170,7 @@
     },
     {
       "id": 9,
-      "path": "/organization/",
+      "path": "/organizations/organization/",
       "icon": "business",
       "name": "Organization 9",
       "desc": "Organization Description 9",
@@ -193,7 +193,7 @@
   "instances": [
     {
       "id": 1,
-      "path": "/instance/",
+      "path": "/instances/instance/",
       "icon": "apps",
       "name": "Instance 1",
       "desc": "Instance Description 1",
@@ -214,7 +214,7 @@
     },
     {
       "id": 2,
-      "path": "/instance/",
+      "path": "/instances/instance/",
       "icon": "apps",
       "name": "Instance 2",
       "desc": "Instance Description 2",
@@ -235,7 +235,7 @@
     },
     {
       "id": 3,
-      "path": "/instance/",
+      "path": "/instances/instance/",
       "icon": "apps",
       "name": "Instance 3",
       "desc": "Instance Description 3",
@@ -258,7 +258,7 @@
     "users": [
     {
       "id": 1,
-      "path": "/user/",
+      "path": "/users/user/",
       "icon": "person",
       "name": "User 1",
       "desc": "test@keitaro.com",
@@ -272,7 +272,7 @@
     },
     {
       "id": 2,
-      "path": "/user/",
+      "path": "/users/user/",
       "icon": "person",
       "name": "User 2",
       "desc": "test@keitaro.com",
@@ -286,7 +286,7 @@
     },
           {
       "id": 3,
-      "path": "/user/",
+      "path": "/users/user/",
       "icon": "person",
       "name": "User 3",
       "desc": "test@keitaro.com",
@@ -303,7 +303,7 @@
     {
       "id": 1,
       "icon": "notifications",
-      "path": "/notification/",
+      "path": "/notifications/notification/",
       "name": "Notification 1",
       "desc": "18th March 2019",
       "isChecked": false
@@ -311,7 +311,7 @@
     {
       "id": 2,
       "icon": "notifications",
-      "path": "/notification/",
+      "path": "/notifications/notification/",
       "name": "Notification 2",
       "desc": "18th March 2019",
       "isChecked": false
@@ -319,7 +319,7 @@
     {
       "id": 3,
       "icon": "notifications",
-      "path": "/notification/",
+      "path": "/notifications/notification/",
       "name": "Notification 3",
       "desc": "18th March 2019",
       "isChecked": false
@@ -328,33 +328,33 @@
   "extensions": [
     {
       "id": 1,
-      "avatarPath": "/extension/",
+      "avatarPath": "/extensions/extension/",
       "icon": "extension",
-      "path": "/extension/",
+      "path": "/extensions/extension/",
       "title": "Sed cursus turpis vitae",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   },
   {
       "id": 2,
-      "avatarPath": "/extension/",
+      "avatarPath": "/extensions/extension/",
       "icon": "extension",
-      "path": "/extension/",
+      "path": "/extensions/extension/",
       "title": "Vitae",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   },
   {
       "id": 3,
-      "avatarPath": "/extension/",
+      "avatarPath": "/extensions/extension/",
       "icon": "extension",
-      "path": "/extension/",
+      "path": "/extensions/extension/",
       "title": "Turpis vitae",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   },
   {
       "id": 4,
-      "avatarPath": "/extension/",
+      "avatarPath": "/extensions/extension/",
       "icon": "extension",
-      "path": "/extension/",
+      "path": "/extensions/extension/",
       "title": "Nullam accumsan lorem in dui",
       "desc": "Curabitur a felis in nunc fringilla tristique. Vivamus elementum semper nisi."
   }
